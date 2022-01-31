@@ -1,0 +1,8 @@
+---
+
+id: MapSymmetryChecker
+name: "Symmetry Checker"
+author: "Fly Sniper"
+description: "Checks the symmetry of maps and marks non-symmetrical areas"
+
+...
